@@ -14,8 +14,8 @@ const RegistrationButton = ({ title, link }: { title: string; link: string }) =>
 
 const Registration = () => {
   const registrationOptions = [
-    { title: 'Individual Delegate Registration', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdQ79a3fx2TOpmsC0LPSaYgdN9KpBcvS0d_kY1sMiTz1s9H3g' },
-    { title: 'International Press Registration', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdUO_dpQnxyTfz1Bjcpr5oESVF7-rXEO4czF5zKYeeLe6j37A' },
+    { title: 'Individual Delegate Registration', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdQ79a3fx2TOpmsC0LPSaYgdN9KpBcvS0d_kY1sMiTz1s9H3g/viewform' },
+    { title: 'International Press Registration', link: 'https://docs.google.com/forms/d/e/1FAIpQLSdUO_dpQnxyTfz1Bjcpr5oESVF7-rXEO4czF5zKYeeLe6j37A/viewform' },
     { title: 'Rappetuer Applications', link: 'https://forms.gle/DZdbo3gr9fDmarDz6' },
     { title: 'Institutional Registration', link: 'https://forms.gle/ALmXTv14FFrSjkAMA' },
   ];
