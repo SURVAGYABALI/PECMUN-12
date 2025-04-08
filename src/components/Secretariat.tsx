@@ -9,7 +9,7 @@ const secretariatMembers = [
   {
     name: 'Sachin Singh',
     position: 'Deputy Secretary General',
-    image: 'images/4th Year photo ID.png',
+    image: 'images/4th Year photo ID.jpg',
  
   },
   {
