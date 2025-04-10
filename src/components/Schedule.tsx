@@ -4,18 +4,24 @@ const scheduleData = [
   {
     date: 'Day 1 - April 12, 2025',
     events: [
-      // { time: '08:00 - 09:30', activity: 'Registration and Check-in' },
-      // { time: '09:30 - 10:30', activity: 'Opening Ceremony' },
-      // { time: '11:00 - 13:00', activity: 'Committee Session I' },
-      // { time: '14:00 - 17:00', activity: 'Committee Session II' },
+      { time: '08:00 AM', activity: 'Registrations' },
+      { time: '09:30 AM', activity: 'Opening Ceremony' },
+      { time: '10:30 AM', activity: 'High Tea' },
+      { time: '11:00 AM', activity: 'Session 1' },
+      { time: '02:00 PM', activity: 'Lunch' },
+      { time: '03:00 PM', activity: 'Session 2'}
     ],
   },
   {
     date: 'Day 2 - Aprit 13, 2025',
     events: [
-      // { time: '09:00 - 12:00', activity: 'Committee Session III' },
-      // { time: '13:00 - 16:00', activity: 'Committee Session IV' },
-      // { time: '16:30 - 18:00', activity: 'Crisis Committee Special Session' },
+   
+      { time: '09:00 AM', activity: 'Session 3' },
+      { time: '11:00 AM', activity: 'High Tea' },
+      { time: '11:30 AM', activity: 'Session 4' },
+      { time: '01:30 PM', activity: 'Lunch' },
+      { time: '02:30 PM', activity: 'Session 5'},
+      { time: '05:00 PM', activity: 'Closing Ceremony'},
     ],
   },
   
