@@ -13,7 +13,7 @@ const scheduleData = [
     ],
   },
   {
-    date: 'Day 2 - Aprit 13, 2025',
+    date: 'Day 2 - April 13, 2025',
     events: [
    
       { time: '09:00 AM', activity: 'Session 3' },
